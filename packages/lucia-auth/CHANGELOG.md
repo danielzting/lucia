@@ -1,5 +1,11 @@
 # lucia-auth
 
+## 1.5.1
+
+### Patch changes
+
+- [#617](https://github.com/pilcrowOnPaper/lucia/pull/617) by [@pilcrowOnPaper](https://github.com/pilcrowOnPaper) : Fix Express middleware returning broken url
+
 ## 1.5.0
 
 ### Minor changes
